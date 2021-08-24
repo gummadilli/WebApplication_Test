@@ -12,6 +12,9 @@ using System.Threading.Tasks;
 
 namespace test_products
 {
+    /// <summary>
+    /// This is for testing
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
