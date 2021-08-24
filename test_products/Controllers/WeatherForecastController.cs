@@ -38,5 +38,12 @@ namespace test_products.Controllers
             })
             .ToArray();
         }
+
+        public void Add()
+        {
+            int i = 10;
+            int j = 10;
+            int k = i + j;
+        }
     }
 }
